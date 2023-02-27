@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7lNr/qregJsmkwasKrKlWwsymjzU3JJLdAqlcgbbuGJ8AP46R5wNCRVIx1mw4BxrjwcI7F95ukVRD0sdcSNRjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uluha\\Desktop\\qrdeneme\\qrdeneme\\qrdeneme.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uluha\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\uluha\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\uluha\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
